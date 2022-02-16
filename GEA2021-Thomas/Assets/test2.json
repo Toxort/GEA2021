@@ -1,0 +1,68 @@
+{
+    "objects": [
+        {
+            "filepath": "xyz",
+            "positionx": 0,
+            "positiony": 0,
+            "positionz": 0,
+            "rotationx": 0,
+            "rotationy": 0,
+            "rotationz": 0,
+            "scalex": 1,
+            "scaley": 1,
+            "scalez": 1,
+            "shader": 0,
+            "texturename": "plain",
+            "usingFrustumCulling": true,
+            "usingLOD": false
+        },
+        {
+            "filepath": "../GEA2021/Assets/Meshes/player.obj",
+            "positionx": 0,
+            "positiony": 0,
+            "positionz": -8.199999809265137,
+            "rotationx": 0,
+            "rotationy": 0,
+            "rotationz": 0,
+            "scalex": 1,
+            "scaley": 1,
+            "scalez": 1,
+            "shader": 0,
+            "texturename": "plain",
+            "usingFrustumCulling": true,
+            "usingLOD": false
+        },
+        {
+            "filepath": "../GEA2021/Assets/Meshes/light.obj",
+            "positionx": 500,
+            "positiony": 100,
+            "positionz": 20,
+            "rotationx": 0,
+            "rotationy": 0,
+            "rotationz": 0,
+            "scalex": 1,
+            "scaley": 1,
+            "scalez": 1,
+            "shader": 2,
+            "texturename": " ",
+            "usingFrustumCulling": true,
+            "usingLOD": false
+        },
+        {
+            "filepath": "../GEA2021/Assets/Meshes/sphere.obj",
+            "positionx": 0,
+            "positiony": 0,
+            "positionz": 0,
+            "rotationx": 0,
+            "rotationy": 0,
+            "rotationz": 0,
+            "scalex": 1,
+            "scaley": 1,
+            "scalez": 1,
+            "shader": 2,
+            "texturename": " ",
+            "usingFrustumCulling": true,
+            "usingLOD": true
+        }
+    ]
+}
